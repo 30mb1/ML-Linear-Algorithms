@@ -67,4 +67,4 @@ after_scale = accuracy_score(test_y, predicted) #0.854
 ```
 
 
-![after.png](https://bitbucket.org/repo/8zzjnb9/images/3976231038-after.png)
+![after.png](https://github.com/AlievMagomed/ML-Perceptron-/blob/master/after.png?raw=true)
