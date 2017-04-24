@@ -43,7 +43,9 @@ before_scale = accuracy_score(test_y, predicted) #0.654
 
 This is the result of running the algorithm without scaling the features:
 
-![before.png](https://bitbucket.org/repo/8zzjnb9/images/2235346511-before.png)
+
+![before.png](https://github.com/AlievMagomed/ML-Perceptron-/blob/master/before.png?raw=true)
+
 
 To scale features, it is convenient to use the class [sklearn.preprocessing.StandardScaler](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
 
