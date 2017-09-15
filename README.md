@@ -36,7 +36,7 @@ before_scale = accuracy_score(test_y, predicted) #0.654
 ```
 
 
-  As in the case of metric methods, the quality of linear algorithms depends on some properties of the data, for example, the features should be normalized. Otherwise, the quality may fall.
+  As in the case of metric methods, the quality of linear algorithms depends on some properties of the data, for example, the features should be normalized. Otherwise, the quality may fall, because features with bigger scale will make a bigger contribution to result.
 
 
 This is the result of running the algorithm without scaling the features:
